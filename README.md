@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_white.png">
+</p>
+
 <h2> Hey there! I'm Yuda 👋🏼</h2>
 
 I'm an undergrad at Gadjah Mada University studying Applied Software Engineering Tech. My jam is AI development and full-stack coding. Backend is my forte - I've got mad skills with modern frameworks like Django and Laravel, whether it's Python or PHP. I'm no stranger to databases either, having worked with RDBMS like MySQL and SQLite on the regular.
