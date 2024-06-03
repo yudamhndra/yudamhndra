@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## GitHub Stats
+
+<table><tr>
+
+<td valign="top" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudamhndra&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile&exclude_repo=website,anonychun.github.io" align="left" style="width: 100%" />
+
+</td></tr></table>
+
 <!--
 **yudamhndra/yudamhndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
