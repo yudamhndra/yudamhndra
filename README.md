@@ -8,7 +8,7 @@ I'm an undergrad at Gadjah Mada University studying Applied Software Engineering
 
 When it comes to AI, I know my way around libraries like YOLO. Give me some user requirements, and I'll whip up some clean code, no sweat. Agile methodologies like Scrum? Been there, done that. Waterfall? Yeah, I've rocked that too.
 
-## GitHub Stats
+## Stats
 
 <table><tr>
 
